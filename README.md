@@ -1,2 +1,2 @@
-# Rejoice-trys-code
+# #MTT assignment
 Simple HTML project
