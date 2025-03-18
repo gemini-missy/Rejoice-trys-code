@@ -1,2 +1,2 @@
-# #MTT assignment
+# 3MTT assignment
 Simple HTML project
